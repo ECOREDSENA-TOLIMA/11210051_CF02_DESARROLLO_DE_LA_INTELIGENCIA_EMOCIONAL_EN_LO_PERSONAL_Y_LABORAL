@@ -10,10 +10,10 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10.col-12(data-aos="zoom-out")
         .row.justify-content-center
-          .col-lg-6.col-6.mb-3
+          .col-lg-6.col-8
             figure
               img(src='@/assets/curso/temas/tema8/img-01.svg', alt='Imagen decorativa')
-          .col-lg-6.col-12.mb-3
+          .col-lg-6.col-8
             .cajon.color-primario.p-4.mb-4(style="background-color: #EDD8F5")
               p La autoestima, un constructo psicológico multifacético, ha sido objeto de numerosas investigaciones. Rosenberg (1965) desarrolló una de las primeras escalas para medir la autoestima global. Sin embargo, investigaciones posteriores, como las de Tafarodi y Swann (1995), han puesto de manifiesto la importancia de considerar dimensiones específicas de la autoestima, como la autoestima explícita e implícita. Comprender estos diferentes tipos de autoestima es esencial para una evaluación más precisa de este complejo constructo.
     
@@ -31,64 +31,54 @@
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       //- estas clases tambien tienen un modificador --borde
       .tarjeta.color-acento-botones--borde.p-4(titulo="Autoestima alta y estable")
-        h4 Autoestima alta y estable
-
         .row
-          .col-xl-8.mb-4
-            p Las personas con este tipo de autoestima tienen una valoración positiva de sí mismas que no fluctúa fácilmente con las circunstancias externas. 
-          .col-xl-3
+          .col-lg-3.col-6
             figure
               img(src='@/assets/curso/temas/tema8/icono-01.svg', alt='Texto que describa la imagen')
+          .col-xl-8.mb-4
+            p Las personas con este tipo de autoestima tienen una valoración positiva de sí mismas que no fluctúa fácilmente con las circunstancias externas. 
               
       .tarjeta.color-acento-botones--borde.p-4(titulo="Autoestima alta e inestable")
-        h4 Autoestima alta e inestable
-
         .row
-          .col-xl-8.mb-4
-            p Aunque tienen una alta autoestima, esta puede variar significativamente dependiendo de las situaciones y el <i>feedback</i> externo.
-          .col-xl-3
+          .col-lg-3.col-6
             figure
               img(src='@/assets/curso/temas/tema8/icono-02.svg', alt='Texto que describa la imagen')
-
+          .col-xl-8.mb-4
+            p Aunque tienen una alta autoestima, esta puede variar significativamente dependiendo de las situaciones y el <i>feedback</i> externo.
+          
       //- .tarjeta debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       //- estas clases tambien tienen un modificador --borde
       .tarjeta.color-acento-botones--borde.p-4(titulo="Autoestima baja y estable")
-        h4 Autoestima baja y estable
-        
         .row
-          .col-xl-8.mb-4
-            p Estas personas tienden a tener una valoración negativa constante de sí mismas, independientemente de las circunstancias. 
-          .col-xl-3
+          .col-lg-3.col-6
             figure
               img(src='@/assets/curso/temas/tema8/icono-03.svg', alt='Texto que describa la imagen')
-
+          .col-xl-8.mb-4
+            p Estas personas tienden a tener una valoración negativa constante de sí mismas, independientemente de las circunstancias. 
+          
       //- .tarjeta debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       //- estas clases tambien tienen un modificador --borde
       .tarjeta.color-acento-botones--borde.p-4(titulo="Autoestima baja e inestable")
-        h4 Autoestima baja e inestable
-        
         .row
-          .col-xl-8.mb-4
-            p La autoestima de estas personas es baja y fluctúa con facilidad, lo que puede llevar a una gran sensibilidad a las críticas y a la aprobación externa.
-          .col-xl-3
+          .col-lg-3.col-6
             figure
               img(src='@/assets/curso/temas/tema8/icono-04.svg', alt='Texto que describa la imagen')
-
+          .col-xl-8.mb-4
+            p La autoestima de estas personas es baja y fluctúa con facilidad, lo que puede llevar a una gran sensibilidad a las críticas y a la aprobación externa.
+          
       //- .tarjeta debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       //- estas clases tambien tienen un modificador --borde
       .tarjeta.color-acento-botones--borde.p-4(titulo="Autoestima inflada")
-        h4 Autoestima inflada
-        
         .row
-          .col-xl-8.mb-4
-            p Las personas con este tipo de autoestima tienen una percepción exagerada de sus capacidades y tienden a menospreciar a los demás. 
-          .col-xl-3
+          .col-lg-3.col-6
             figure
               img(src='@/assets/curso/temas/tema8/icono-05.svg', alt='Texto que describa la imagen')
-
+          .col-xl-8.mb-4
+            p Las personas con este tipo de autoestima tienen una percepción exagerada de sus capacidades y tienden a menospreciar a los demás. 
+          
       //- .tarjeta debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       //- estas clases tambien tienen un modificador --borde

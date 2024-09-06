@@ -12,27 +12,26 @@
     .tarjeta.tarjeta--azul.mb-5(data-aos="fade-left")
       .p-4.p-lg-5
         SlyderA(tipo="b")
-          .row
-            .col-lg-7.mb-4.mb-lg-0
+          .row.justify-content-center.align-items-center
+            .col-lg-7.order-lg-1.order-2
               h4 Afecto
               p.mb-0 Se entiende como una categoría amplia que engloba todas las experiencias emocionales, tanto positivas como negativas. Es un término general que se refiere a la disposición emocional de una persona en un momento dado, abarcando tanto emociones concretas como estados de ánimo prolongados. El afecto es una manifestación del estado interno de una persona y puede influir en su comportamiento y percepción del entorno. 
-            .col-lg-5
-              figure
-                img(src='@/assets/curso/temas/tema3/img-01.png', style="width: 450px" ,alt='').m-auto
-          .row
-            .col-lg-7.mb-4.mb-lg-0
+            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+              img(src='@/assets/curso/temas/tema3/img-01.png', style="width: 450px" ,alt='').m-auto
+          
+          .row.justify-content-center.align-items-center
+            .col-lg-7.order-lg-1.order-2
               h4 Emociones
               p.mb-0 Las emociones son respuestas psicofisiológicas inmediatas y específicas ante estímulos externos o internos. Estas respuestas son generalmente intensas, de corta duración, y están directamente vinculadas a un objeto o situación específica. Por ejemplo, el miedo ante una amenaza o la alegría ante una buena noticia. Las emociones desempeñan un papel crucial en la toma de decisiones y en la adaptación al entorno.
-            .col-lg-5
-              figure
-                img(src='@/assets/curso/temas/tema3/img-02.png', style="width: 450px" ,alt='').m-auto
-          .row
-            .col-lg-7.mb-4.mb-lg-0
+            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+              img(src='@/assets/curso/temas/tema3/img-02.png', style="width: 450px" ,alt='').m-auto
+          
+          .row.justify-content-center.align-items-center
+            .col-lg-7.order-lg-1.order-2
               h4 Estados de ánimo
               p.mb-0 A diferencia de las emociones, los estados de ánimo son menos intensos, más duraderos, y no están necesariamente relacionados con un estímulo específico. Los estados de ánimo, como la melancolía o la euforia, pueden durar horas o días, y afectan de manera general el enfoque de una persona hacia la vida, influyendo en su conducta y en su interpretación de los eventos cotidianos. 
-            .col-lg-5
-              figure
-                img(src='@/assets/curso/temas/tema3/img-03.png', style="width: 450px" ,alt='').m-auto 
+            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+              img(src='@/assets/curso/temas/tema3/img-03.png', style="width: 450px" ,alt='').m-auto 
 
     p.mb-5(data-aos="zoom-in") La comprensión de estos conceptos es esencial para el desarrollo de la inteligencia emocional, ya que permite a los individuos reconocer y gestionar sus experiencias afectivas de manera efectiva, mejorando su bienestar emocional y su interacción con los demás. A continuación, se presentan los ejemplos de cada uno de los conceptos: 
 

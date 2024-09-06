@@ -21,22 +21,21 @@
     .titulo-segundo.color-acento-contenido
       h2#t_4_1 4.1 Empatía como cognición y emoción 
 
-    .row.align-items-center.justify-content-center.mb-4(data-aos="flip-left") 
-      .col-md-8.col-12.mb-3.mb-md-0
-        p.mb-3(data-aos="flip-left") <b>La empatía se puede dividir en dos componentes principales:</b> el cognitivo y el emocional. <b>La empatía cognitiva</b> se refiere a la capacidad de comprender la perspectiva o el estado mental de otra persona, es decir, saber lo que otra persona siente o piensa. Esto no necesariamente implica compartir esas emociones, sino más bien reconocerlas y entenderlas desde un punto de vista intelectual.
-        p.mb-3(data-aos="flip-left") Por otro lado, <b>la empatía emocional</b> implica la capacidad de experimentar las emociones que otra persona está sintiendo. Es una respuesta emocional directa a la experiencia emocional de otra persona, lo que permite no solo entender, sino también sentir junto con el otro. Este tipo de empatía es lo que nos impulsa a ofrecer apoyo a alguien que está pasando por un momento difícil. 
+    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-left") 
+      .col-lg-8.order-lg-1.order-2
+        p.mb-0(data-aos="flip-left") <b>La empatía se puede dividir en dos componentes principales:</b> el cognitivo y el emocional. <b>La empatía cognitiva</b> se refiere a la capacidad de comprender la perspectiva o el estado mental de otra persona, es decir, saber lo que otra persona siente o piensa. Esto no necesariamente implica compartir esas emociones, sino más bien reconocerlas y entenderlas desde un punto de vista intelectual.
+        p.mb-0(data-aos="flip-left") Por otro lado, <b>la empatía emocional</b> implica la capacidad de experimentar las emociones que otra persona está sintiendo. Es una respuesta emocional directa a la experiencia emocional de otra persona, lo que permite no solo entender, sino también sentir junto con el otro. Este tipo de empatía es lo que nos impulsa a ofrecer apoyo a alguien que está pasando por un momento difícil. 
         .cajon.color-primario.p-4.mb-4(style="background-color: #EDD8F5")
           p Ambos tipos de empatía son esenciales para una interacción social efectiva y se complementan para ayudar a las personas a conectarse profundamente con los demás, facilitando una comunicación más efectiva y relaciones interpersonales más saludables. 
-      .col-md-4.col-10(data-aos="zoom-in")
-        figure
-          img(src="@/assets/curso/temas/tema4/img-02.svg", alt="")
+      .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
+        img(src="@/assets/curso/temas/tema4/img-02.svg", alt="")
 
     p.mb-5(data-aos="zoom-in") A continuación, se presentan ejemplos, de cómo estas dos formas de empatía se manifiestan en situaciones cotidianas, subrayando la importancia de ambas en la construcción de relaciones interpersonales saludables y en la facilitación de la comunicación efectiva. 
 
     .tarjeta--container.row.mb-5(data-aos="fade-up")
       .col-md.tarjeta.color-primario2.p-5
         .row.justify-content-center.mb-4
-          .col-4
+          .col-lg-4.col-6
             figure
               img(src='@/assets/curso/temas/tema4/img-03.svg', alt='Imagen decorativa')
         h3.text-center Empatía Cognitiva
@@ -45,7 +44,7 @@
 
       .col-md.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
-          .col-4
+          .col-lg-4.col-6
             figure
               img(src='@/assets/curso/temas/tema4/img-04.svg', alt='Imagen decorativa')
         h3.text-center Empatía Emocional

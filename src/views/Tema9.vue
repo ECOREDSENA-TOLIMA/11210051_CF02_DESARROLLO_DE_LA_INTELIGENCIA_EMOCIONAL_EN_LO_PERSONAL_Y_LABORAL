@@ -47,7 +47,7 @@
                 .col-md-12.mb-4.mb-md-0
                   p Son las competencias que permiten gestionar adecuadamente las relaciones interpersonales. Incluyen la influencia, la comunicación, el manejo de conflictos, y el trabajo en equipo. 
 
-      .col-lg-4.col-12.mb-5(data-aos="fade-up")
+      .col-lg-4.col-12.mb-5.d-lg-flex.d-none(data-aos="fade-up")
         figure
           img(src='@/assets/curso/temas/tema9/img-02.svg', alt='Rutinas de limpieza')
 

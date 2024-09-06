@@ -25,10 +25,10 @@
       .row.justify-content-center.mb-4
         .col-lg-10.col-12
           .row.justify-content-center.align-items-center
-            .col-lg-6.col-12.mb-3
+            .col-lg-6.col-8.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema5/img-02.svg', alt='Imagen decorativa')
-            .col-lg-6.col-12.mb-3
+            .col-lg-6.col-8.mb-lg-0.mb-4
               .col-md-12.mb-5.mb-md-0
                 //- LineaTiempoD debe ir acompañado de una de una de estas clases => 
                 //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones

@@ -26,7 +26,7 @@
       .row.justify-content-center.mb-4
         .col-lg-10.col-12
           .row.justify-content-center.align-items-center
-            .col-lg-5.col-12.mb-3
+            .col-lg-5.col-8
               figure
                 img(src='@/assets/curso/temas/tema10/img-02.svg', alt='Imagen decorativa')
             .col-lg-7.col-12.mb-3
@@ -113,7 +113,7 @@
                 .col-md-12.mb-4.mb-md-0
                   p En la cúspide de la pirámide, se encuentran necesidades como la creatividad, la moralidad, y el desarrollo del potencial humano, lo cual culmina en la autorrealización.
 
-      .col-lg-4.col-12.mb-5(data-aos="fade-up")
+      .col-lg-4.col-12.d-lg-flex.d-none.mb-5(data-aos="fade-up")
         figure
           img(src='@/assets/curso/temas/tema10/img-04.png', alt='Rutinas de limpieza')
 
