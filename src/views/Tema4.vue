@@ -39,7 +39,7 @@
           .col-4
             figure
               img(src='@/assets/curso/temas/tema4/img-03.svg', alt='Imagen decorativa')
-        h2.text-center Empatía Cognitiva
+        h3.text-center Empatía Cognitiva
         p <b>Comprensión en el lugar de trabajo:</b> Un gerente observa que un empleado está distraído y rinde menos de lo habitual. Al hablar con el empleado, el gerente entiende que la persona está preocupada por problemas familiares. Aunque el gerente no comparte esos mismos problemas, comprende la situación y ofrece flexibilidad en los horarios para que el empleado pueda atender sus asuntos personales.
         p <b>Negociaciones:</b> Durante una negociación, una parte reconoce que la otra parte tiene una visión distinta sobre un contrato. Aunque no comparta la misma perspectiva, puede entender por qué la otra parte está preocupada por ciertas cláusulas. Esta comprensión ayuda a facilitar un acuerdo que beneficie a ambas partes.
 
@@ -48,7 +48,7 @@
           .col-4
             figure
               img(src='@/assets/curso/temas/tema4/img-04.svg', alt='Imagen decorativa')
-        h2.text-center Empatía Emocional
+        h3.text-center Empatía Emocional
         p <b>Consolación de un amigo:</b> Un amigo recibe una mala noticia y comienza a llorar. Al verlo, otro amigo siente una profunda tristeza y, sin pensarlo mucho, abraza al amigo para ofrecer consuelo. Esta respuesta emocional refleja que la persona está sintiendo el dolor junto con su amigo.
         p <b>Reacción ante una historia triste:</b> Al ver una película que muestra la pérdida de un ser querido, una persona comienza a llorar, aunque nunca haya experimentado esa pérdida directamente. Este llanto es una respuesta emocional a la situación de los personajes, demostrando la capacidad de sentir lo que los personajes están pasando.
 

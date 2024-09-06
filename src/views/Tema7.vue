@@ -18,7 +18,7 @@
 
     p.mb-5(data-aos="zoom-in") A continuación, se presentan los elementos clave de las relaciones interpersonales: 
 
-    .container.BGIMG02.px-4.px-md-5.pt-4
+    .row.fondo2-t2.justify-content-center.align-items-center.py-3.px-lg-5.px-4
       .row.justify-content-center.mb-4
         .col-lg-10.col-12
           .row.justify-content-center.align-items-center

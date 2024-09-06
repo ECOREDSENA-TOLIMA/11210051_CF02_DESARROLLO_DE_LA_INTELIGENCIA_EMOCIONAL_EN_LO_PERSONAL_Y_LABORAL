@@ -45,6 +45,9 @@
     background-size: cover 
     background-repeat: no-repeat
     background-position: center
+    margin-inline: -3rem !important
+    @media (max-width: $bp-max-sm)
+      margin-inline: -1.5rem !important
 
   // pasosb
   .pasos-b__header__item--before .pasos-b__header__item__dot 
@@ -71,7 +74,7 @@
 
 .tema3
   .tarjeta.tarjeta--azul
-    background-image: url(../assets/curso/temas/tema2/fondo-slyder.svg)
+    background-image: url(../assets/curso/temas/tema3/fondo.svg)
     background-repeat: no-repeat
     background-size: cover
 
@@ -125,17 +128,48 @@
     background-size: cover
     background-repeat: no-repeat
     background-position: center
+  
+  .tarjeta-foto-hover
+    position: relative
+    overflow: hidden
+    &:hover
+      .tarjeta-foto-hover__tarjeta
+        transform: translateY(0%)
+
+    &__titulo
+      position: absolute
+      bottom: 0
+      width: 100%
+    &__tarjeta
+      transition: transform 0.3s ease-in-out
+      position: absolute
+      bottom: 0
+      width: 100%
+      height: 100%
+      transform: translateY(100%)
+
+  .bg-degrade
+    background: #CBF1E1
+    @media (max-width: 412px)
+      background-repeat: no-repeat
+      font-size: 10px !important
+    @media (max-width: 576px)
+      background-repeat: no-repeat
+      font-size: 14px
 
 .tema4
   .tarjeta.color-primario2
     background-color: #D29DE5
 
 .tema5
-  .BGIMG02
-    background-image: url("../assets/curso/temas/tema5/fondo.png")
-    background-size: cover
-    background-repeat: no-repeat
-    background-position: center
+  .tarjeta--gris
+    background-color: #E0E9E9
+
+  .fondo2-t2
+    background: linear-gradient(to bottom, #FFF, #F6EBFA, #FFF)
+    margin-inline: -3rem
+    @media screen and (max-width: $bp-max-sm)
+      margin-inline: -1.5rem
 
   .linea-tiempo-edit
     .linea-tiempo-d__item__content
@@ -196,11 +230,14 @@
     color: #7EDBB4
 
 .tema7
-  .BGIMG02
-    background-image: url("../assets/curso/temas/tema5/fondo.png")
-    background-size: cover
-    background-repeat: no-repeat
-    background-position: center
+  .tarjeta--gris
+    background-color: #E0E9E9
+
+  .fondo2-t2
+    background: linear-gradient(to bottom, #FFF, #F6EBFA, #FFF)
+    margin-inline: -3rem
+    @media screen and (max-width: $bp-max-sm)
+      margin-inline: -1.5rem
 
   .linea-tiempo-edit
     .linea-tiempo-d__item__content
@@ -234,6 +271,9 @@
     color: #000
 
 .tema9
+  .tarjeta--gris
+    background-color: #E0E9E9
+
   .tarjeta.tarjeta--gris.acordion__activo
     background-color: #FFF4D6
 
@@ -256,11 +296,14 @@
     color: #7EDBB4
 
 .tema10
-  .BGIMG02
-    background-image: url("../assets/curso/temas/tema10/fondo.png")
-    background-size: cover
-    background-repeat: no-repeat
-    background-position: center
+  .fondo2-t2
+    background: linear-gradient(to bottom, #FFF, #FFF9EA, #FFF)
+    margin-inline: -3rem
+    @media screen and (max-width: $bp-max-sm)
+      margin-inline: -1.5rem
+
+  .tarjeta--gris
+    background-color: #E0E9E9
 
   .tarjeta.tarjeta--gris.acordion__activo
     background-color: #FFF4D6
@@ -320,6 +363,9 @@
     background-size: cover 
     background-repeat: no-repeat
     background-position: center
+    margin-inline: -3rem !important
+    @media (max-width: $bp-max-sm)
+      margin-inline: -1.5rem !important
 
   // pasosb
   .pasos-b__header__item--before .pasos-b__header__item__dot 

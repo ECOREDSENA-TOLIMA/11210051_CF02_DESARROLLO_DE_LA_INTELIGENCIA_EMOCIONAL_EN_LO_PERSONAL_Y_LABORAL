@@ -21,7 +21,7 @@
 
     p.mb-5(data-aos="zoom-in") Las propiedades de los equipos de trabajo que los hacen efectivos incluyen: 
 
-    .container.BGIMG02.px-4.px-md-5.pt-4
+    .row.fondo2-t2.justify-content-center.align-items-center.py-3.px-lg-5.px-4
       .row.justify-content-center.mb-4
         .col-lg-10.col-12
           .row.justify-content-center.align-items-center
@@ -60,35 +60,35 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-03.svg' alt='AvatarTop')
-        h2.text-center Liderazgo efectivo
+        h4.text-center Liderazgo efectivo
         p Un líder  que puede guiar al equipo, motivar a los miembros y resolver conflictos  es esencial para el éxito del equipo.
 
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-04.svg' alt='AvatarTop')
-        h2.text-center Capacidad de resolución de conflictos
+        h4.text-center Capacidad de resolución de conflictos
         p Los equipos exitosos manejan los conflictos de manera constructiva, utilizando las diferencias como oportunidades para mejorar el rendimiento.
 
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-05.svg' alt='AvatarTop')
-        h2.text-center Adaptabilidad
+        h4.text-center Adaptabilidad
         p Las capacidades de adaptarse a los cambios  y desafíos externos es crucial para que el equipo se mantenga relevante y eficiente.
 
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-06.svg' alt='AvatarTop')
-        h2.text-center Compromiso de los miembros 
+        h4.text-center Compromiso de los miembros 
         p El éxito del equipo depende de  la dedicación  y el compromisos de sus miembros  con el objetivo común. 
 
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-07.svg' alt='AvatarTop')
-        h2.text-center Recursos adecuados
+        h4.text-center Recursos adecuados
         p Tener acceso a los recursos necesarios, ya sean materiales, información o tiempo, es fundamental para que ele equipo pueda cumplir  con sus objetivos.
      
     p.mb-5(data-aos="zoom-in") Estas propiedades y factores son esenciales para que los equipos de trabajo no solo alcancen sus objetivos, sino que también fomenten un ambiente de colaboración, aprendizaje continuo y éxito sostenido. 

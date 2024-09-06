@@ -22,7 +22,7 @@
     p(data-aos="zoom-in") La autorrealización, según Maslow, representa la madurez personal y es vista como una necesidad de crecimiento que trasciende las necesidades básicas o de deficiencia. En su jerarquía de necesidades, Maslow posiciona las necesidades de crecimiento (como la perfección, la justicia, la belleza, y la verdad) por encima de las necesidades fisiológicas y de seguridad, amor, pertenencia y atención. Estas necesidades superiores conducen al individuo hacia la autorrealización, un estado en el que se busca cumplir con el propio potencial y vivir en coherencia con los valores más elevados.
     p.mb-5(data-aos="zoom-in") Maslow también identificó una serie de rasgos característicos en las personas autorrealizadas, tales como: 
 
-    .container.BGIMG02.px-4.px-md-5.pt-4
+    .row.fondo2-t2.justify-content-center.align-items-center.py-3.px-lg-5.px-4
       .row.justify-content-center.mb-4
         .col-lg-10.col-12
           .row.justify-content-center.align-items-center

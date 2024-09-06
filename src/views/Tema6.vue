@@ -74,42 +74,42 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/img-07.svg' alt='AvatarTop')
-        h2.text-center Negociación
+        h4.text-center Negociación
         p Es una técnica donde las partes involucradas en el conflicto intentan llegar a un acuerdo mutuo a través de la discusión y el compromiso. Es útil cuando ambas partes están dispuestas a ceder en algunos aspectos para lograr una solución que beneficie a todos.
 
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/img-08.svg' alt='AvatarTop')
-        h2.text-center Mediación
+        h4.text-center Mediación
         p Involucra a un tercero neutral que ayuda a las partes en conflicto a comunicarse y encontrar una solución aceptable para ambos. El mediador no impone una solución, sino que facilita el diálogo.
 
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/img-09.svg' alt='AvatarTop')
-        h2.text-center Arbitraje
+        h4.text-center Arbitraje
         p Similar a la mediación, pero en este caso, el tercero (el árbitro) tiene la autoridad para tomar una decisión que las partes deben acatar. Es común en disputas legales o laborales.
 
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/img-010.svg' alt='AvatarTop')
-        h2.text-center Colaboración 
+        h4.text-center Colaboración 
         p Las partes trabajan juntas para encontrar una solución creativa que satisfaga las necesidades de todos los involucrados. Es una técnica eficaz, pero requiere un alto nivel de confianza y cooperación.
 
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/img-011.svg' alt='AvatarTop')
-        h2.text-center Evitación
+        h4.text-center Evitación
         p En algunos casos, las partes pueden optar por evitar el conflicto, ya sea porque no es significativo o porque la confrontación podría ser más perjudicial que beneficiosa. Sin embargo, esta técnica no resuelve el conflicto subyacente.
       
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/img-012.svg' alt='AvatarTop')
-        h2.text-center Compromiso
+        h4.text-center Compromiso
         p Las partes acuerdan hacer concesiones mutuas, renunciando a algunas de sus demandas para llegar a una solución aceptable para todos. Es una técnica rápida, pero no siempre satisface plenamente a todas las partes.
 
     p.mb-5(data-aos="zoom-in") El manejo efectivo de conflictos no solo resuelve el desacuerdo, sino que también puede fortalecer las relaciones y mejorar el ambiente de trabajo. Cada conflicto es único, por lo que la selección de la técnica adecuada depende de las circunstancias específicas y las personalidades involucradas. 

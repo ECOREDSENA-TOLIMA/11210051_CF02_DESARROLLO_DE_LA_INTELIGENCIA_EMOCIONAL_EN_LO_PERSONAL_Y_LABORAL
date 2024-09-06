@@ -137,28 +137,28 @@
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema8/icono-06.svg' alt='AvatarTop')
-        h2.text-center Autoconocimiento
+        h4.text-center Autoconocimiento
         p.text-center Explorar nuestros pensamientos, emociones, valores y motivaciones. Practicar la introspección y el <i>mindfulness</i> puede ser de gran ayuda.
 
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema8/icono-07.svg' alt='AvatarTop')
-        h2.text-center Autoaceptación
+        h4.text-center Autoaceptación
         p.text-center Aceptar nuestras fortalezas y debilidades sin juzgarnos. Reconocer que somos seres humanos imperfectos y que todos cometemos errores.
 
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema8/icono-08.svg' alt='AvatarTop')
-        h2.text-center Autoconfianza
+        h4.text-center Autoconfianza
         p.text-center Creer en nuestras capacidades y en nuestro potencial. Celebrar nuestros logros y aprender de nuestros fracasos.
 
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema8/icono-09.svg' alt='AvatarTop')
-        h2.text-center Autoestima emocional
+        h4.text-center Autoestima emocional
         p.text-center Desarrollar habilidades para gestionar nuestras emociones de manera saludable. Aprender a identificar y expresar nuestras emociones de forma constructiva.
 
     Separador 

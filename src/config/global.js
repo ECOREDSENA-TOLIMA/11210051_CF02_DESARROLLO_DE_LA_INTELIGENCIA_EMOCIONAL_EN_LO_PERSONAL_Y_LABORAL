@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Desarrollo de la inteligencia emocional y madurez',
     descripcionCurso:
       'Este componente formativo proporciona una base sólida para que las personas gestionen sus emociones y relaciones interpersonales, logrando así un equilibrio emocional. A través de temas como el autocontrol, la empatía, el trabajo en equipo y la resolución de conflictos, se profundiza en las competencias necesarias para el crecimiento emocional y la autorrealización. Esta unidad ofrece herramientas clave para desarrollar un autoconcepto saludable y alcanzar una madurez emocional sólida.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {

@@ -31,52 +31,57 @@
 
     p.mb-5(data-aos="zoom-in") La madurez emocional es esencial para una vida equilibrada y satisfactoria, tanto en el ámbito personal como profesional. Algunos ejemplos de cómo se manifiesta la madurez emocional en la vida cotidiana: 
 
-    .tarjeta.p-4.tarjeta--gris1.px-4.px-md-5.pt-4.mb-5
-      PasosB.color-acento-botones
-        .row.justify-content-center.align-items-center(titulo="")
-          .col-lg-6.order-lg-1.order-2
-            h6.mb-4 Manejo de la frustración
-            p.mb-0 Una persona emocionalmente madura es capaz de enfrentar contratiempos o situaciones frustrantes sin dejar que las emociones negativas controlen su comportamiento. Por ejemplo, si en el trabajo surge un problema inesperado, en lugar de reaccionar con enojo o desesperación, la persona analiza la situación con calma y busca soluciones constructivas. 
+    .tarjeta.p-4.tarjeta--gris1.mb-5(data-aos="zoom-in") 
+      .tarjeta.tarjeta--blanca.p-4
+        PasosB.color-acento-botones
+          .row.justify-content-center.align-items-center(titulo="")
+            .col-lg-6.order-lg-1.order-2
+              h6.mb-4 Manejo de la frustración
+              p.mb-0 Una persona emocionalmente madura es capaz de enfrentar contratiempos o situaciones frustrantes sin dejar que las emociones negativas controlen su comportamiento. Por ejemplo, si en el trabajo surge un problema inesperado, en lugar de reaccionar con enojo o desesperación, la persona analiza la situación con calma y busca soluciones constructivas. 
 
-          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            figure
-              img(src='@/assets/curso/temas/tema12/img-03.png', alt='Imagen decorativa')
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+              figure
+                img(src='@/assets/curso/temas/tema12/img-03.png', alt='Imagen decorativa')
 
-        .row.justify-content-center.align-items-center(titulo="")
-          .col-lg-6.order-lg-1.order-2
-            h6.mb-4 Resolución de conflictos
-            p En una discusión, una persona con madurez emocional es capaz de escuchar activamente la perspectiva de los demás, incluso cuando no está de acuerdo, y responde de manera respetuosa. Por ejemplo, en un desacuerdo con un amigo, en lugar de reaccionar defensivamente, la persona busca un entendimiento mutuo y una solución que beneficie a ambas partes. 
+          .row.justify-content-center.align-items-center(titulo="")
+            .col-lg-6.order-lg-1.order-2
+              h6.mb-4 Resolución de conflictos
+              p En una discusión, una persona con madurez emocional es capaz de escuchar activamente la perspectiva de los demás, incluso cuando no está de acuerdo, y responde de manera respetuosa. Por ejemplo, en un desacuerdo con un amigo, en lugar de reaccionar defensivamente, la persona busca un entendimiento mutuo y una solución que beneficie a ambas partes. 
 
-          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            figure
-              img(src='@/assets/curso/temas/tema12/img-04.png', alt='Imagen decorativa')
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+              figure
+                img(src='@/assets/curso/temas/tema12/img-04.png', alt='Imagen decorativa')
 
-        .row.justify-content-center.align-items-center(titulo="")
-          .col-lg-6.order-lg-1.order-2
-            h6.mb-4 Autocontrol en situaciones de estrés  
-            p Durante momentos de alta presión, como exámenes o fechas límite en el trabajo, una persona emocionalmente madura puede mantener la calma, manejar su ansiedad y concentrarse en la tarea en cuestión sin perder la compostura. 
+          .row.justify-content-center.align-items-center(titulo="")
+            .col-lg-6.order-lg-1.order-2
+              h6.mb-4 Autocontrol en situaciones de estrés  
+              p Durante momentos de alta presión, como exámenes o fechas límite en el trabajo, una persona emocionalmente madura puede mantener la calma, manejar su ansiedad y concentrarse en la tarea en cuestión sin perder la compostura. 
 
-          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            figure
-              img(src='@/assets/curso/temas/tema12/img-05.png', alt='Imagen decorativa')
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+              figure
+                img(src='@/assets/curso/temas/tema12/img-05.png', alt='Imagen decorativa')
 
-        .row.justify-content-center.align-items-center(titulo="")
-          .col-lg-6.order-lg-1.order-2
-            h6.mb-4 Empatía en las relaciones personales
-            p La madurez emocional se refleja en la capacidad de ponerse en el lugar del otro. Por ejemplo, cuando un ser querido expresa tristeza o preocupación, la persona emocionalmente madura no solo escucha, sino que también ofrece apoyo y comprensión, validando sus sentimientos. 
+          .row.justify-content-center.align-items-center(titulo="")
+            .col-lg-6.order-lg-1.order-2
+              h6.mb-4 Empatía en las relaciones personales
+              p La madurez emocional se refleja en la capacidad de ponerse en el lugar del otro. Por ejemplo, cuando un ser querido expresa tristeza o preocupación, la persona emocionalmente madura no solo escucha, sino que también ofrece apoyo y comprensión, validando sus sentimientos. 
 
-          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            figure
-              img(src='@/assets/curso/temas/tema12/img-06.png', alt='Imagen decorativa')
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+              figure
+                img(src='@/assets/curso/temas/tema12/img-06.png', alt='Imagen decorativa')
 
-        .row.justify-content-center.align-items-center(titulo="")
-          .col-lg-6.order-lg-1.order-2
-            h6.mb-4 Adaptabilidad ante cambios
-            p Las personas emocionalmente maduras son capaces de adaptarse a cambios inesperados sin experimentar un colapso emocional. Por ejemplo, si un plan importante se cancela de último momento, en lugar de sentirse devastado, la persona lo toma con filosofía y encuentra una nueva manera de disfrutar el tiempo disponible. 
+          .row.justify-content-center.align-items-center(titulo="")
+            .col-lg-6.order-lg-1.order-2
+              h6.mb-4 Adaptabilidad ante cambios
+              p Las personas emocionalmente maduras son capaces de adaptarse a cambios inesperados sin experimentar un colapso emocional. Por ejemplo, si un plan importante se cancela de último momento, en lugar de sentirse devastado, la persona lo toma con filosofía y encuentra una nueva manera de disfrutar el tiempo disponible. 
 
-          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            figure
-              img(src='@/assets/curso/temas/tema12/img-07.png', alt='Imagen decorativa')
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+              figure
+                img(src='@/assets/curso/temas/tema12/img-07.png', alt='Imagen decorativa')
+
+    p.mb-5(data-aos="zoom-in") Estos ejemplos muestran cómo la madurez emocional no solo mejora la calidad de vida personal, sino que también fortalece las relaciones interpersonales y el desempeño en entornos profesionales. 
+
+ 
 
 </template>
 

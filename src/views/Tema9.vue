@@ -64,36 +64,36 @@
         .tarjeta.color-primario.p-4.col-ipad
           .row.justify-content-center.mb-3
             .col-8
-              img(src='@/assets/curso/temas/tema6/img-07.svg' alt='AvatarTop')
-          h2.text-center Autoconciencia
+              img(src='@/assets/curso/temas/tema9/icono-01.svg' alt='AvatarTop')
+          h4.text-center Autoconciencia
           p Reconocimiento de las propias emociones, valores y habilidades. 
 
         .tarjeta.color-primario.p-4.col-ipad
           .row.justify-content-center.mb-3
             .col-8
-              img(src='@/assets/curso/temas/tema6/img-08.svg' alt='AvatarTop')
-          h2.text-center Autogestión
+              img(src='@/assets/curso/temas/tema9/icono-02.svg' alt='AvatarTop')
+          h4.text-center Autogestión
           p Capacidad para regular las emociones y comportamientos en diferentes situaciones.
 
         .tarjeta.color-primario.p-4.col-ipad
           .row.justify-content-center.mb-3
             .col-8
-              img(src='@/assets/curso/temas/tema6/img-09.svg' alt='AvatarTop')
-          h2.text-center Conciencia social
+              img(src='@/assets/curso/temas/tema9/icono-03.svg' alt='AvatarTop')
+          h4.text-center Conciencia social
           p Comprensión y empatía hacia los demás, incluyendo el respeto por las diferencias.
 
         .tarjeta.color-primario.p-4.col-ipad
           .row.justify-content-center.mb-3
             .col-8
-              img(src='@/assets/curso/temas/tema6/img-010.svg' alt='AvatarTop')
-          h2.text-center Habilidades para relacionarse
+              img(src='@/assets/curso/temas/tema9/icono-04.svg' alt='AvatarTop')
+          h4.text-center Habilidades para relacionarse
           p Desarrollo de relaciones saludables y la habilidad para trabajar en equipo. 
 
         .tarjeta.color-primario.p-4.col-ipad
           .row.justify-content-center.mb-3
             .col-8
-              img(src='@/assets/curso/temas/tema6/img-011.svg' alt='AvatarTop')
-          h2.text-center Toma de decisiones responsables
+              img(src='@/assets/curso/temas/tema9/icono-05.svg' alt='AvatarTop')
+          h4.text-center Toma de decisiones responsables
           p Elección de comportamientos éticos y seguros basados en normas sociales y el bienestar de los demás. 
 
       .row.justify-content-center.align-items-center.mb-3
