@@ -82,8 +82,8 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 1. </b> <i>Pirámide de necesidades humanas de Maslow</i>
         figure.mb-5
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema10/img-03-01.svg', alt='En la figura 1 se representa la pirámide de necesidades humanas desarrollada por Maslow. Esta pirámide ilustra los cinco niveles de necesidades que los seres humanos buscan satisfacer: necesidades biológicas, seguridad, afiliación, reconocimiento y, en la cúspide, la autorrealización.')
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema10/img-03-02.svg', alt='En la figura 1 se representa la pirámide de necesidades humanas desarrollada por Maslow. Esta pirámide ilustra los cinco niveles de necesidades que los seres humanos buscan satisfacer: necesidades biológicas, seguridad, afiliación, reconocimiento y, en la cúspide, la autorrealización.') 
+          img.d-lg-flex.d-none(src='@/assets/curso/temas/tema10/img-03-01.svg', alt='En la figura 1 se representa la pirámide de necesidades humanas desarrollada por Maslow. Esta pirámide ilustra los cinco niveles de necesidades que los seres humanos buscan satisfacer: necesidades biológicas, seguridad, afiliación, reconocimiento y, en la cúspide, la autorrealización.')
+          img.d-lg-none.d-flex(src='@/assets/curso/temas/tema10/img-03-02.svg', alt='En la figura 1 se representa la pirámide de necesidades humanas desarrollada por Maslow. Esta pirámide ilustra los cinco niveles de necesidades que los seres humanos buscan satisfacer: necesidades biológicas, seguridad, afiliación, reconocimiento y, en la cúspide, la autorrealización.') 
           figcaption Nota: <i>tomada de Maslow (1943).</i> 
 
     p.mb-5(data-aos="zoom-in") A continuación, se presenta la explicación de cada etapa, según sus necesidades: 

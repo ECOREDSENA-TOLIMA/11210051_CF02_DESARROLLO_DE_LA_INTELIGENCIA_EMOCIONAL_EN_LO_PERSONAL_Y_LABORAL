@@ -24,38 +24,38 @@
     TabsC.color-acento-botones.mt-5.mb-5.color_img-tab.bg_1(data-aos="fade-left")
       .p-4.py-md-4(titulo="Autoconcepto físico")
         .row
-          .col-lg-5.col-10.mb-lg-0.mb-4
+          .col-lg-5.col-10.mb-lg-0.mb-4.mx-auto
             figure
               img.img-t.m-auto(src='@/assets/curso/temas/tema11/img-02.png', alt='Texto que describa la imagen')
               
-          .col-md-7.mb-4.mb-md-0
+          .col-lg-7
             p Se refiere a cómo una persona percibe su apariencia física y su cuerpo. Incluye aspectos como la imagen corporal, la percepción de la salud y la habilidad física. Este tipo de autoconcepto es influenciado por estándares culturales y sociales, así como por las experiencias individuales, como la participación en deportes o el feedback recibido de otros sobre la apariencia física. 
 
       .p-4.py-md-4(titulo="Autoconcepto social")
         .row
-          .col-lg-5.col-10.mb-lg-0.mb-4
+          .col-lg-5.col-10.mb-lg-0.mb-4.mx-auto
             figure
               img.img-t.m-auto(src='@/assets/curso/temas/tema11/img-03.png', alt='Texto que describa la imagen')
 
-          .col-md-7.mb-4.mb-md-0
+          .col-lg-7
             p Está relacionado con la percepción que una persona tiene de su capacidad para interactuar y mantener relaciones con los demás. Incluye cómo se ve en su rol dentro de diferentes grupos sociales, como la familia, amigos, y compañeros de trabajo. Este tipo de autoconcepto se desarrolla a través de la interacción social y la retroalimentación que se recibe de otros. 
 
       .p-4.py-md-4(titulo="Autoconcepto académico")
         .row
-          .col-lg-5.col-10.mb-lg-0.mb-4
+          .col-lg-5.col-10.mb-lg-0.mb-4.mx-auto
             figure
               img.img-t.m-auto(src='@/assets/curso/temas/tema11/img-04.png', alt='Texto que describa la imagen')
 
-          .col-md-7.mb-4.mb-md-0
+          .col-lg-7
             p Involucra la percepción de una persona sobre sus capacidades y competencias intelectuales y académicas. Es un factor importante en la motivación para el aprendizaje y el éxito académico. Este tipo de autoconcepto está influenciado por el rendimiento en el entorno escolar, las expectativas personales y las comparaciones con los compañeros.
       
       .p-4.py-md-4(titulo="Autoconcepto emocional")
         .row
-          .col-lg-5.col-10.mb-lg-0.mb-4
+          .col-lg-5.col-10.mb-lg-0.mb-4.mx-auto
             figure
               img.img-t.m-auto(src='@/assets/curso/temas/tema11/img-05.png', alt='Texto que describa la imagen')
 
-          .col-md-7.mb-4.mb-md-0
+          .col-lg-7
             p Abarca la comprensión y regulación de las emociones propias. Incluye la percepción de la capacidad para manejar el estrés, la ansiedad y otras emociones, así como la habilidad para expresarlas de manera apropiada. Este tipo de autoconcepto es crucial para la salud mental y el bienestar emocional. 
 
     Separador 

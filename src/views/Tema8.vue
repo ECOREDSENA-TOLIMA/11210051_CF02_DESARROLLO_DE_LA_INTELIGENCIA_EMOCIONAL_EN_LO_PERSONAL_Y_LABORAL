@@ -13,7 +13,7 @@
           .col-lg-6.col-8
             figure
               img(src='@/assets/curso/temas/tema8/img-01.svg', alt='Imagen decorativa')
-          .col-lg-6.col-8
+          .col-lg-6
             .cajon.color-primario.p-4.mb-4(style="background-color: #EDD8F5")
               p La autoestima, un constructo psicológico multifacético, ha sido objeto de numerosas investigaciones. Rosenberg (1965) desarrolló una de las primeras escalas para medir la autoestima global. Sin embargo, investigaciones posteriores, como las de Tafarodi y Swann (1995), han puesto de manifiesto la importancia de considerar dimensiones específicas de la autoestima, como la autoestima explícita e implícita. Comprender estos diferentes tipos de autoestima es esencial para una evaluación más precisa de este complejo constructo.
     
@@ -32,7 +32,7 @@
       //- estas clases tambien tienen un modificador --borde
       .tarjeta.color-acento-botones--borde.p-4(titulo="Autoestima alta y estable")
         .row
-          .col-lg-3.col-6
+          .col-lg-3.col-6.mx-auto
             figure
               img(src='@/assets/curso/temas/tema8/icono-01.svg', alt='Texto que describa la imagen')
           .col-xl-8.mb-4
@@ -40,7 +40,7 @@
               
       .tarjeta.color-acento-botones--borde.p-4(titulo="Autoestima alta e inestable")
         .row
-          .col-lg-3.col-6
+          .col-lg-3.col-6.mx-auto
             figure
               img(src='@/assets/curso/temas/tema8/icono-02.svg', alt='Texto que describa la imagen')
           .col-xl-8.mb-4
@@ -51,7 +51,7 @@
       //- estas clases tambien tienen un modificador --borde
       .tarjeta.color-acento-botones--borde.p-4(titulo="Autoestima baja y estable")
         .row
-          .col-lg-3.col-6
+          .col-lg-3.col-6.mx-auto
             figure
               img(src='@/assets/curso/temas/tema8/icono-03.svg', alt='Texto que describa la imagen')
           .col-xl-8.mb-4
@@ -62,7 +62,7 @@
       //- estas clases tambien tienen un modificador --borde
       .tarjeta.color-acento-botones--borde.p-4(titulo="Autoestima baja e inestable")
         .row
-          .col-lg-3.col-6
+          .col-lg-3.col-6.mx-auto
             figure
               img(src='@/assets/curso/temas/tema8/icono-04.svg', alt='Texto que describa la imagen')
           .col-xl-8.mb-4
@@ -73,7 +73,7 @@
       //- estas clases tambien tienen un modificador --borde
       .tarjeta.color-acento-botones--borde.p-4(titulo="Autoestima inflada")
         .row
-          .col-lg-3.col-6
+          .col-lg-3.col-6.mx-auto
             figure
               img(src='@/assets/curso/temas/tema8/icono-05.svg', alt='Texto que describa la imagen')
           .col-xl-8.mb-4
