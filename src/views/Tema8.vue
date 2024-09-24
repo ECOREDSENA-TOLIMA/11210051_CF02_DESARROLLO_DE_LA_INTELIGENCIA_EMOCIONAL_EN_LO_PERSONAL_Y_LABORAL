@@ -98,7 +98,7 @@
               img(src='@/assets/curso/temas/tema8/img-02-01.svg', alt='Texto que describa la imagen')
 
           .tarjeta.color-acento-botones.p-3(x="17.2%" y="19%" numero="1")(style="background-color:#FFFFFF")
-            p(style="color:#000") Ser consiente de las acciones , pensamientos y sentimientos en el presente.
+            p(style="color:#000") Ser consciente de las acciones, pensamientos y sentimientos en el presente.
 
           .tarjeta.color-acento-botones.p-3(x="14.5%" y="48%" numero="2")(style="background-color:#FFFFFF")
             p(style="color:#000") Aceptar las fortalezas y debilidades  sin juzgarse severamente.
@@ -172,7 +172,7 @@
             p(style="color:#000") Cómo se ve físicamente  y cómo se siente con su apariencia. 
 
           .tarjeta.color-acento-botones.p-3(x="84%" y="60%" numero="3")(style="background-color:#FFFFFF")
-            p(style="color:#000") La seguridad  en las habilidades y capacidades propias 
+            p(style="color:#000") La seguridad  en las habilidades y capacidades propias.
 
           .tarjeta.color-acento-botones.p-3(x="87.5%" y="76%" numero="4")(style="background-color:#FFFFFF")
             p(style="color:#000") La capacidad de valorarse y apreciarse a si mismo.

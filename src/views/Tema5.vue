@@ -82,14 +82,14 @@
           .col-8
             img(src='@/assets/curso/temas/tema5/img-06.svg' alt='AvatarTop')
         h4.text-center Compromiso de los miembros 
-        p El éxito del equipo depende de  la dedicación  y el compromisos de sus miembros  con el objetivo común. 
+        p El éxito del equipo depende de  la dedicación  y el compromiso de sus miembros  con el objetivo común. 
 
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-07.svg' alt='AvatarTop')
         h4.text-center Recursos adecuados
-        p Tener acceso a los recursos necesarios, ya sean materiales, información o tiempo, es fundamental para que ele equipo pueda cumplir  con sus objetivos.
+        p Tener acceso a los recursos necesarios, ya sean materiales, información o tiempo, es fundamental para que el equipo pueda cumplir  con sus objetivos.
      
     p.mb-5(data-aos="zoom-in") Estas propiedades y factores son esenciales para que los equipos de trabajo no solo alcancen sus objetivos, sino que también fomenten un ambiente de colaboración, aprendizaje continuo y éxito sostenido. 
 

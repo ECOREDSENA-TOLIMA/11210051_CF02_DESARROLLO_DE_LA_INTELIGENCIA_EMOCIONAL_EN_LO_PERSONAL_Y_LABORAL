@@ -40,7 +40,7 @@
                     p.text-small.mb-2 Sin confianza, las relaciones son frágiles y susceptibles a la desconfianza y los malentendidos. La confianza se construye con el tiempo a través de la consistencia, la honestidad y la lealtad. 
 
                   .d-block(numero="4" titulo="Asertividad")
-                    p.text-small.mb-2 La habilidad para expresar los propios sentimientos y deseos de manera respetuosa, sin agresividad ni pasividad. La asertividad permite a las personas defender sus derechos sin violar los derechos de los demás
+                    p.text-small.mb-2 La habilidad para expresar los propios sentimientos y deseos de manera respetuosa, sin agresividad ni pasividad. La asertividad permite a las personas defender sus derechos sin violar los derechos de los demás.
 
                   .d-block(numero="5" titulo="Respeto mutuo")
                     p.text-small.mb-2 Reconocer y valorar las diferencias y perspectivas de los demás. El respeto es esencial para mantener la armonía en cualquier relación. 
